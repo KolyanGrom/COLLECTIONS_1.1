@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Game {
-    String[] player = new String[5];
     List<Player> players = new ArrayList<>();
 
     public void register(Player player) {
